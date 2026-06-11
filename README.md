@@ -1,4 +1,4 @@
-🏯 Busca CEP com Demon Slayer
+# 🏯 Busca CEP com Demon Slayer
 
 Projeto desenvolvido com **HTML, CSS e JavaScript** que permite consultar informações de endereço a partir de um CEP utilizando a API ViaCEP. A interface foi personalizada com temática inspirada em **Demon Slayer**, proporcionando uma experiência visual diferenciada.
 
